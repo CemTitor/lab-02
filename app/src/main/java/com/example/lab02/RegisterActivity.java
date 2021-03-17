@@ -23,7 +23,7 @@ public class RegisterActivity extends AppCompatActivity {
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Snackbar.make(view, "second message commiting", Snackbar.LENGTH_LONG)
+                Snackbar.make(view, "second message commitingg", Snackbar.LENGTH_LONG)
                         .setAction("Action", null).show();
             }
         });
